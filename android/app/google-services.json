@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465317627760",
+    "project_id": "intagram-e45a4",
+    "storage_bucket": "intagram-e45a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465317627760:android:4c8278f5d23cf4a1b8b1b5",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465317627760-aslucpgddah4319fmmv3c6s2prirn6dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAASeYoMUMznfIkGr5POUTiNpxtlUq0S6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465317627760-aslucpgddah4319fmmv3c6s2prirn6dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
